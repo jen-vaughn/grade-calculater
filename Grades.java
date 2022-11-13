@@ -2,10 +2,9 @@ import java.util.Scanner;
 public class Grades {
 	
 	// Jennifer Vaughn
-	// CIS 1068 Section 1
 	// 9/13/22
-	// Assignment 3: Grades
-	// This program will calculate a student's course grade.
+	// Grade Calculator
+	// This program will calculate a student's overall weighted course grade.
 	
 public static Scanner CONSOLE = new Scanner(System.in);
 	
